@@ -1012,7 +1012,6 @@
     "fast-uri" "^3.0.1"
     "json-schema-traverse" "^1.0.0"
     "require-from-string" "^2.0.2"
-
 "amdefine@>=0.0.4":
   "integrity" "sha512-S2Hw0TtNkMJhIabBwIojKL9YHO5T0n5eNqWJ7Lrlel/zDbftQpxpapi8tZs3X1HWa+u+QeydGmzzNU0m09+Rcg=="
   "resolved" "https://registry.npmjs.org/amdefine/-/amdefine-1.0.1.tgz"
